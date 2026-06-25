@@ -277,22 +277,6 @@ PORT=5005
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of the following pages here:
-
-| Page | Preview |
-|---|---|
-| Home Page | _add screenshot_ |
-| Login Page | _add screenshot_ |
-| Register Page | _add screenshot_ |
-| Product Details | _add screenshot_ |
-| Shopping Cart | _add screenshot_ |
-| Orders | _add screenshot_ |
-| Admin Dashboard | _add screenshot_ |
-
----
-
 ## 🚀 Future Improvements
 
 - [ ] Product search
